@@ -1,6 +1,6 @@
 # airesearch147.github.io
 
-**To publish: **
+## To publish 
 
 git clone dev branch
 
